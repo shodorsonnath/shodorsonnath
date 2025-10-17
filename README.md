@@ -1,5 +1,5 @@
 ## Hi, I'm Shodorson!  👋
-🚀 Full Stack Developer with experience in web development<br>💻 Skills: Next.js, React, HTML, CSS, JavaScript, TypeScript, Python, C, C++, Flask, Node.js, MongoDB, MySQL, PHP, Redux<br>📚 Currently learning Macchine Learning to create awesome real time applications!
+🚀 Full Stack Developer with experience in Web Development & Machine Learning<br>💻 Skills: Next.js, React, HTML, CSS, JavaScript, TypeScript, Python, C, C++, Flask, Node.js, MongoDB, MySQL, PHP, Redux<br>📚 Currently learning Macchine Learning to create awesome real time applications!
 
 
 ## 🌐 Socials:
